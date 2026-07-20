@@ -1,2 +1,0 @@
-model,split,macro_f1,micro_f1,samples_f1,macro_precision,micro_precision,macro_recall,micro_recall,exact_match_accuracy,hidden_size,num_layers,dropout
-lstm,test,0.5459097525022325,0.6206532795840711,0.4817741553339605,0.4614891752963191,0.523200050814622,0.6943367236719195,0.7627204963192741,0.47468028665320505,128,1,0.0

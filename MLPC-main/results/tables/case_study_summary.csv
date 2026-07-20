@@ -1,3 +1,0 @@
-filename,macro_f1,micro_f1,num_segments,num_true_labels,num_pred_labels,num_errors,active_classes,figure_path
-000505.wav,0.25227272727272726,0.8852459016393442,61,59,63,14,cutlery_dishes; door_open_close; footsteps; light_switch; running_water; toilet_flushing; vacuum_cleaner,C:\Users\Admin\Documents\MLandPC_project\MLPC_project\outputs\figures\case_study_000505.png
-000081.wav,0.0,0.0,60,50,77,127,coffee_machine; cutlery_dishes; footsteps; keyboard_typing; microwave; phone_ringing; running_water; toilet_flushing; window_open_close,C:\Users\Admin\Documents\MLandPC_project\MLPC_project\outputs\figures\case_study_000081.png
